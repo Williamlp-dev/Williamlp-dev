@@ -7,7 +7,7 @@
 [![William GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Williamlp-dev&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 
-## Tecnologias que tive experiência no meu dia a dia.
+## Tecnologias que tenho experiência no meu dia a dia.
 
 <div style="display: inline_block;"
 ><br/>
