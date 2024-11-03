@@ -34,4 +34,4 @@
 
 </div><br/>
 
-## Atualmente Estudando React !!!
+## Atualmente Estudando React Native!!!
