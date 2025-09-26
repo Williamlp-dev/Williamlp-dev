@@ -9,7 +9,7 @@
 
 ---
 
-<div align="center">
+<div>
   <table>
     <tr>
       <td>
