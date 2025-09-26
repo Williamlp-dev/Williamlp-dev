@@ -5,7 +5,7 @@ Desenvolvedor Full-Stack com 2.5 anos de experiência em projetos freelancer. Es
 [![LinkedIn](https://img.shields.io/badge/William_Lopes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-lopes-5537792a1/)
 [![Email](https://img.shields.io/badge/williamlp.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williamlp.dev@gmail.com)
 
-[![William GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Williamlp-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&token=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#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![William GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Williamlp-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 ## 🛠️ Tecnologias que domino
 
 <div style="display: inline_block;"><br/>
