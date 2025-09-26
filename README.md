@@ -1,7 +1,7 @@
 # Olá, eu sou o William Lopes 👋
 
 <p>Desenvolvedor Full-Stack | 2.5 Anos de Experiência | Especialista em Next.js, React e TypeScript</p>
-<p>focado em entregar soluções de alta performance e experiências digitais intuitivas. aplicando essas tecnologias para construir aplicações escaláveis e robustas. Busco integrar uma equipe onde eu possa aplicar, aprender e crescer, transformando minhas habilidades em soluções reais para o mercado.</p>
+<p>Focado em entregar soluções de alta performance e experiências digitais intuitivas. aplicando essas tecnologias para construir aplicações escaláveis e robustas. Busco integrar uma equipe onde eu possa aplicar, aprender e crescer, transformando minhas habilidades em soluções reais para o mercado.</p>
 
 <a href="https://www.linkedin.com/in/william-lopes-5537792a1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
