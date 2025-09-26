@@ -36,7 +36,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,drizzle" />
+    <img src="https://skillicons.dev/icons?i=postgres" />
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react" />
