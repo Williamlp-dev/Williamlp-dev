@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="URL_DO_SEU_BANNER_AQUI" alt="Banner William Lopes" width="800"/>
-</p>
-
-<div align="center">
-
 # Olá, eu sou o William Lopes da Silva 👋
 
 <p>Sou um Desenvolvedor Full-Stack apaixonado por transformar problemas em soluções de alta performance. Com 2.5 anos de experiência, meu foco é criar experiências digitais incríveis com **TypeScript**, **Next.js** e **React**.</p>
@@ -12,11 +6,6 @@
 <a href="https://www.linkedin.com/in/william-lopes-5537792a1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="mailto:williamlp.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-</div>
 
 ---
 
@@ -24,10 +13,12 @@
   <table>
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Williamlp-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="Estatísticas do GitHub"/>
+        <a href="https://github.com/Williamlp-dev">
+          <img height="180em" src="https://william-github-stats.vercel.app/api?username=Williamlp-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&cache_bust=1" alt="Estatísticas do GitHub"/>
+        </a>
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Williamlp-dev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&border_radius=10" alt="Linguagens Mais Usadas"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Williamlp-dev&layout=compact&langs_count=7&theme=dracula&hide_border=true&border_radius=10" alt="Linguagens Mais Usadas"/>
       </td>
     </tr>
   </table>
@@ -57,34 +48,12 @@
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🌱 No Que Estou Focando Agora
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🍔 <a href="#">Kebrada Burguer</a></h3>
-      <p>Sistema completo de cardápio digital (Full-Stack) para otimizar pedidos e a experiência do cliente final.</p>
-      <p><strong>Tecnologias:</strong> Next.js, TypeScript, PostgreSQL.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🍔 <a href="#">N1 Burger</a></h3>
-      <p>Cardápio digital com foco total em uma interface de usuário limpa, moderna e intuitiva (Front-end).</p>
-      <p><strong>Tecnologias:</strong> React, TypeScript, Tailwind CSS.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>♻️ <a href="#">EcoBank</a></h3>
-      <p>Aplicativo mobile que transforma reciclagem em um jogo, incentivando práticas sustentáveis através de gamificação.</p>
-      <p><strong>Tecnologias:</strong> React Native, TypeScript.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚙️ <a href="#">CogniTec</a></h3>
-      <p>Sistema web com funcionalidades completas de CRUD (Criar, Ler, Atualizar, Deletar), focado em gestão de dados.</p>
-      <p><strong>Tecnologias:</strong> Next.js, TypeScript, Drizzle ORM.</p>
-    </td>
-  </tr>
-</table>
+* 🚀 Aprimorando minhas habilidades em **arquitetura de software e Design Patterns**.
+* 🧪 Aprofundando em testes automatizados com **Jest** e **Cypress** para garantir a qualidade do código.
+* ☁️ Explorando o ecossistema de **Cloud (AWS/Vercel)** para otimizar o deploy de aplicações.
+* 👨‍💻 Contribuindo para projetos **open-source** que utilizam React e TypeScript.
 
 ---
 
