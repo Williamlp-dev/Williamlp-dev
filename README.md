@@ -1,37 +1,62 @@
-# Olá! Eu sou William Lopes 😆😆
+# Olá! Eu sou William Lopes da Silva 👋
 
+Desenvolvedor Full-Stack com 2.5 anos de experiência em projetos freelancer. Especializado em **TypeScript**, **Next.js** e **React**, sou proativo e focado em entregar soluções de alta performance.
 
-[![Blog](https://img.shields.io/badge/williamm.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/williamm.dev/)
-[![Blog](https://img.shields.io/badge/William_Lopes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-lopes-5537792a1/)
+[![LinkedIn](https://img.shields.io/badge/William_Lopes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-lopes-5537792a1/)
+[![Email](https://img.shields.io/badge/williamlp.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williamlp.dev@gmail.com)
 
 [![William GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Williamlp-dev&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
+## 🛠️ Tecnologias que domino
 
-## Tecnologias que tenho experiência no meu dia a dia.
+<div style="display: inline_block;"><br/>
 
-<div style="display: inline_block;"
-><br/>
-  
-<img align="center" alt="html5" style="height:50px ; width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+### Frontend
+<img align="center" alt="React" style="height:50px; width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+<img align="center" alt="Next.js" style="height:50px; width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
+<img align="center" alt="TypeScript" style="height:50px; width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+<img align="center" alt="JavaScript" style="height:50px; width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+<img align="center" alt="Tailwind CSS" style="height:50px; width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
 
-<img align="center" alt="css" style="height:50px ; width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+### Backend
+<img align="center" alt="Node.js" style="height:50px; width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+<img align="center" alt="Python" style="height:50px; width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 
-<img align="center" alt="JavaScript" style="height:50px ; width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+### Database
+<img align="center" alt="PostgreSQL" style="height:50px; width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+<img align="center" alt="Drizzle" style="height:50px; width:50px;" src="https://raw.githubusercontent.com/oven-sh/bun/main/docs/public/logo.svg">
 
-<img align="center" alt="React" style="height:50px ; width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+### Mobile
+<img align="center" alt="React Native" style="height:50px; width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 
-<img align="center" alt="BootStrap" style="height:50px ; width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
-
-<img align="center" alt="Django" style="height:50px ; width:50px;" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg">
-
-<img align="center" alt="SQLite" style="height:50px ; width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
-
-<img align="center" alt="MySQL" style="height:50px ; width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-
-<img align="center" alt="C++" style="height:50px ; width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-
-<img align="center" alt="Python" style="height:50px ; width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+### DevOps & Tools
+<img align="center" alt="Docker" style="height:50px; width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
+<img align="center" alt="Git" style="height:50px; width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+<img align="center" alt="Vercel" style="height:50px; width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg">
 
 </div><br/>
 
-## Atualmente Estudando React Native!
+## 🚀 Projetos em Destaque
+
+- **Kebrada Burguer** - Sistema completo de cardápio digital (Full-Stack)
+- **N1 Burger** - Cardápio digital com foco em UI/UX (Front-end)
+- **EcoBank** - App mobile de gamificação de reciclagem (React Native)
+- **CogniTec** - Sistema web com CRUD completo (Next.js + TypeScript)
+
+## 📚 Formação
+
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas** - Uninassau (Fev/2022 - Jun/2025)
+
+## 💼 Experiência
+
+- **2.5+ anos** de experiência em projetos freelancer
+- Especializado em desenvolvimento de **cardápios digitais**
+- Foco em **alta performance** e **experiência do usuário**
+
+## 🌟 Sobre Mim
+
+Sou um desenvolvedor apaixonado por criar soluções que fazem a diferença. Busco minha primeira oportunidade para colaborar em equipe e desenvolver produtos inovadores, sempre com foco na qualidade e na experiência do usuário.
+
+---
+
+⭐ **"Antes de escrever código, eu escuto. Soluções de verdade nascem do problema certo."** - William Lopes da Silva
