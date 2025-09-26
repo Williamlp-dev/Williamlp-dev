@@ -1,4 +1,4 @@
-# Olá, eu sou o William Lopes da Silva 👋
+# Olá, eu sou o William Lopes 👋
 
 <p>Sou um Desenvolvedor Full-Stack apaixonado por transformar problemas em soluções de alta performance. Com 2.5 anos de experiência, meu foco é criar experiências digitais incríveis com **TypeScript**, **Next.js** e **React**.</p>
 <p>Atualmente, estou em busca da minha primeira oportunidade para colaborar em uma equipe e construir produtos inovadores!</p>
@@ -50,17 +50,15 @@
 
 ## 🌱 No Que Estou Focando Agora
 
-* 🚀 Aprimorando minhas habilidades em **arquitetura de software e Design Patterns**.
-* 🧪 Aprofundando em testes automatizados com **Jest** e **Cypress** para garantir a qualidade do código.
-* ☁️ Explorando o ecossistema de **Cloud (AWS/Vercel)** para otimizar o deploy de aplicações.
-* 👨‍💻 Contribuindo para projetos **open-source** que utilizam React e TypeScript.
+* 🚀 Desenvolvendo o **KNB Menu**: Um projeto de cardápio digital focado em impulsionar pequenos restaurantes com uma solução de excelente custo-benefício e que realmente funciona.
+* ⚙️ Aprofundando em backend de alta performance com **Node.js** e **Fastify** para construir APIs mais rápidas e escaláveis.
+* ⚡ Otimizando a experiência de desenvolvimento com **Vite** e explorando o poder do **Drizzle ORM** para interações seguras e eficientes com o banco de dados.
 
 ---
 
 ## 🎓 Carreira e Formação
 
 -   **Desenvolvedor Full-Stack Freelancer** `(2.5+ anos)`
-    -   Especializado no desenvolvimento de cardápios digitais e soluções web de alta performance.
 -   **Tecnólogo em Análise e Desenvolvimento de Sistemas** - Uninassau `(Fev/2022 - Jun/2025)`
 
 <br>
