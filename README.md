@@ -28,7 +28,7 @@
 
 ## 🛠️ Minha Caixa de Ferramentas
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" />
   </a>
