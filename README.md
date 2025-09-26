@@ -52,4 +52,4 @@ Sou um desenvolvedor apaixonado por criar soluções que fazem a diferença. Bus
 
 ---
 
-⭐ **"Antes de escrever código, eu escuto. Soluções de verdade nascem do problema certo."** - William Lopes da Silva
+⭐ **"Antes de escrever código, eu escuto. Soluções de verdade nascem do problema certo."**
