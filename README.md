@@ -36,13 +36,6 @@ Desenvolvedor Full-Stack com 2.5 anos de experiência em projetos freelancer. Es
 
 </div><br/>
 
-## 🚀 Projetos em Destaque
-
-- **Kebrada Burguer** - Sistema completo de cardápio digital (Full-Stack)
-- **N1 Burger** - Cardápio digital com foco em UI/UX (Front-end)
-- **EcoBank** - App mobile de gamificação de reciclagem (React Native)
-- **CogniTec** - Sistema web com CRUD completo (Next.js + TypeScript)
-
 ## 📚 Formação
 
 - **Tecnólogo em Análise e Desenvolvimento de Sistemas** - Uninassau (Fev/2022 - Jun/2025)
