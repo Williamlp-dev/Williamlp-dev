@@ -12,23 +12,6 @@
 
 ---
 
-<div>
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/Williamlp-dev">
-          <img height="180em" src="https://william-github-stats.vercel.app/api?username=Williamlp-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&cache_bust=1" alt="Estatísticas do GitHub"/>
-        </a>
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Williamlp-dev&layout=compact&langs_count=7&theme=dracula&hide_border=true&border_radius=10" alt="Linguagens Mais Usadas"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 🛠️ Minha Caixa de Ferramentas
 
 <p>
