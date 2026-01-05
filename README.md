@@ -46,9 +46,3 @@
 
 -   **Desenvolvedor Full-Stack Freelancer** `(2.5+ anos)`
 -   **Tecnólogo em Análise e Desenvolvimento de Sistemas** - Uninassau `(Fev/2022 - Jun/2025)`
-
-<br>
-
-> ⭐ **"Antes de escrever código, eu escuto. Soluções de verdade nascem do problema certo."**
-
-<br>
