@@ -1,48 +1,27 @@
-# Olá, eu sou o William Lopes 👋
+# William Lopes
 
-<p>Desenvolvedor Full-Stack | 2.5 Anos de Experiência</p>
-<p>Focado em entregar soluções de alta performance e experiências digitais intuitivas. aplicando essas tecnologias para construir aplicações escaláveis e robustas. Busco integrar uma equipe onde eu possa aplicar, aprender e crescer, transformando minhas habilidades em soluções reais para o mercado.</p>
+**Engenheiro de Software Full-Stack**
 
-<a href="https://www.linkedin.com/in/william-lopes-5537792a1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<div align="left">
+  <a href="https://www.linkedin.com/in/william-lopes-5537792a1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.williamlopes.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-101010?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>&nbsp;&nbsp;
+  <a href="mailto:williamlp.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
+
+<br />
+
+Engenheiro especializado em **construir e escalar produtos digitais**.
+
+Tenho experiência prática desenvolvendo **plataformas SaaS** do zero, otimizando aplicações de alto tráfego e integrando **Inteligência Artificial** em fluxos de trabalho. Foco em arquiteturas robustas com **TypeScript** e **Node.js** para entregar performance e estabilidade.
+
+### 💻 Tech Stack
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,nestjs,postgres,prisma,docker,aws&theme=dark" />
 </a>
-<a href="https://www.williamlopes.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
-</a>
-
----
-
-## 🛠️ Minha Caixa de Ferramentas
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,python" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,vercel" />
-  </a>
-</p>
-
----
-
-## 🌱 No Que Estou Focando Agora
-
-* 🚀 Desenvolvendo o **KNB Menu**: Um projeto de cardápio digital focado em impulsionar pequenos restaurantes com uma solução de excelente custo-benefício e que realmente funciona.
-* ⚙️ Aprofundando em backend de alta performance com **Node.js** e **Fastify** para construir APIs mais rápidas e escaláveis.
-* ⚡ Otimizando a experiência de desenvolvimento com **Vite** e explorando o poder do **Drizzle ORM** para interações seguras e eficientes com o banco de dados.
-
----
-
-## 🎓 Carreira e Formação
-
--   **Desenvolvedor Full-Stack Freelancer** `(2.5+ anos)`
--   **Tecnólogo em Análise e Desenvolvimento de Sistemas** - Uninassau `(Fev/2022 - Jun/2025)`
